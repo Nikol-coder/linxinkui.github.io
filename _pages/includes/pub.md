@@ -1,5 +1,7 @@
 # 📝 Publications 
 
+- From Agnostic to Specific: Latent Preference Diffusion for Multi-Behavior Sequential Recommendation. Ruochen Yang, Xiaodong Li, Jiawei Sheng, Jiangxia Cao, <strong style="font-size: 1.2em; color: #d32f2f;">Xinkui Lin</strong>, Shen Wang, yangshuang, Liu Zhaojie, Tingwen Liu. *32nd SIGKDD Conference on Knowledge Discovery and Data Mining, 2026 (KDD 2026)*.
+
 - [MAKAR: a Multi-Agent framework based Knowledge-Augmented Reasoning for Grounded Multimodal Named Entity Recognition](https://aclanthology.org/2025.emnlp-main.311/).  <strong style="font-size: 1.2em; color: #d32f2f;">Xinkui Lin</strong>, yuhui zhang, Yongxiu Xu, Kun Huang, Hongzhang Mu, Yubin Wang, Gaopeng Gou, Li Qian, Li Peng, Wei Liu, Jian Luan, Hongbo Xu. *The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025)*.
 
 - [REMOTE: A Unified Multimodal Relation Extraction Framework with Multilevel Optimal Transport and Mixture-of-Experts](https://dl.acm.org/doi/10.1145/3746027.3754868).  <strong style="font-size: 1.2em; color: #d32f2f;">Xinkui Lin</strong>, Yongxiu Xu, Minghao Tang, Shilong Zhang, Hongbo Xu, Hao Xu, Yubin Wang. *Proceedings of the 33rd ACM International Conference on Multimedia (MM '25)*.
