@@ -1,5 +1,9 @@
 # 📝 Publications 
 
+- Where to Look and What to Use: Retrieve–Localize–Generate for Long-Term Conversational Memory Question Answering. 
+Yifan Wang*, <strong style="font-size: 1.2em; color: #d32f2f;">Xinkui Lin*</strong>, Yongxiu Xu, Shen Gao, Ruochen Yang, Kun Huang, Yubin Wang, Jie Wu, Wei Liu, Jian Luan, Hongbo Xu, Shuo Shang.
+<em>*Equal contribution.</em>. *The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026)*.
+
 - From Agnostic to Specific: Latent Preference Diffusion for Multi-Behavior Sequential Recommendation. Ruochen Yang, Xiaodong Li, Jiawei Sheng, Jiangxia Cao, <strong style="font-size: 1.2em; color: #d32f2f;">Xinkui Lin</strong>, Shen Wang, yangshuang, Liu Zhaojie, Tingwen Liu. *32nd SIGKDD Conference on Knowledge Discovery and Data Mining, 2026 (KDD 2026)*.
 
 - [MAKAR: a Multi-Agent framework based Knowledge-Augmented Reasoning for Grounded Multimodal Named Entity Recognition](https://aclanthology.org/2025.emnlp-main.311/).  <strong style="font-size: 1.2em; color: #d32f2f;">Xinkui Lin</strong>, yuhui zhang, Yongxiu Xu, Kun Huang, Hongzhang Mu, Yubin Wang, Gaopeng Gou, Li Qian, Li Peng, Wei Liu, Jian Luan, Hongbo Xu. *The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025)*.
