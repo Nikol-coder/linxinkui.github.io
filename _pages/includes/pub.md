@@ -2,7 +2,7 @@
 
 - Where to Look and What to Use: Retrieve–Localize–Generate for Long-Term Conversational Memory Question Answering. 
 Yifan Wang*, <strong style="font-size: 1.2em; color: #d32f2f;">Xinkui Lin*</strong>, Yongxiu Xu, Shen Gao, Ruochen Yang, Kun Huang, Yubin Wang, Jie Wu, Wei Liu, Jian Luan, Hongbo Xu, Shuo Shang.
-<em>*Equal contribution.</em>. *The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026)*.
+<em>*Equal contribution</em>. *The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026)*.
 
 - From Agnostic to Specific: Latent Preference Diffusion for Multi-Behavior Sequential Recommendation. Ruochen Yang, Xiaodong Li, Jiawei Sheng, Jiangxia Cao, <strong style="font-size: 1.2em; color: #d32f2f;">Xinkui Lin</strong>, Shen Wang, yangshuang, Liu Zhaojie, Tingwen Liu. *32nd SIGKDD Conference on Knowledge Discovery and Data Mining, 2026 (KDD 2026)*.
 
